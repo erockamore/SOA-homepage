@@ -215,9 +215,3 @@ footer{
     width: 50%;
   }
 }
-
-@media (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
